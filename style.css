@@ -1,0 +1,245 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+body {
+    font-size: 16px;
+    font-family: Arial;
+}
+.logo {
+    display: flex;
+    justify-content: center;
+    padding-top: 85px;
+}
+
+.p-container {
+    padding-top: 25px;
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+} 
+.form-head {
+    text-align: center;
+    padding-top: 30px;
+}
+.f-name {
+    display: flex;
+    align-items: center;
+    text-align: center;
+    /* justify-content: center; */
+    margin-left: 170px;
+    gap: 145px;
+    /* padding-bottom: 30px; */
+}
+
+.user-name {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+}
+
+.l-name {
+    display: flex;
+    /* justify-content: center; */
+    align-items: center;
+    gap: 150px;
+    margin-left: 170px;
+
+}
+
+.lastname {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+}
+
+.dob {
+    display: flex;
+    /* justify-content: center; */
+    align-items: center;
+    gap: 125px;
+    margin-left: 170px;
+}
+
+.dob-date {
+    display: flex;
+    /* justify-content: center; */
+    align-items: center;
+    /* margin-left: 70px; */
+    /* padding-right: 100px; */
+}
+
+.e-id {
+    display: flex;
+    /* justify-content: center; */
+    align-items: center;
+    gap: 165px;
+    margin-left: 170px;
+}
+
+.email {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.mobile-no {
+    display: flex;
+    /* justify-content: center; */
+    align-items: center;
+    gap: 105px;
+    margin-left: 170px;
+}
+.d-mobile {
+    display: flex;
+    align-items: center;
+    /* justify-content: center; */
+    gap: 10px;
+    padding-right: 100px;
+}
+
+.gender {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    margin-left: 170px;
+    gap: 75px;
+}
+
+.gender-m-f {
+    display: flex;
+    align-items: center;
+    margin-left: 100px;
+    gap: 10px;
+}
+
+.address{
+    display: flex;
+    /* align-items: center; */
+    margin-left: 170px;
+    gap: 165px;
+    /* padding-bottom: 49px; */
+}
+
+.address-h {
+    display: flex;
+    /* align-items: center; */
+}
+
+.city {
+    display: flex;
+    align-items: center;
+    margin-left: 170px;
+    gap: 200px;
+}
+
+.city-name {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}
+
+.pin-code {
+    display: flex;
+    align-items: center;
+    margin-left: 170px;
+    gap: 110px;
+}
+
+.n-code {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+
+}
+
+.state {
+    display: flex;
+    align-items: center;
+    margin-left: 170px;
+    gap: 190px;
+}
+
+.n-state {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}
+
+.country {
+    display: flex;
+    align-items: center;
+    margin-left: 170px;
+    gap: 160px;
+}
+
+.n-country {
+    display: flex;
+    align-items: center;
+}
+
+.hobbies {
+    display: flex;
+    align-items: center;
+    margin-left: 170px;
+    gap: 170px;
+    
+}
+
+.hb-checkbox {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}
+
+.qualification {
+    display: flex;
+    /* align-items: center; */
+    margin-left: 170px;
+    gap: 110px;
+    padding-top: 35px;
+}
+
+.table {
+    display: flex;
+    align-items: center;
+}
+
+.corses {
+    display: flex;
+    align-items: center;
+    margin-left: 150px;
+    gap: 90px;
+    width: 28%;
+    padding-left: 20px;
+
+}
+
+.file {
+    display: flex;
+    align-items: center;
+    margin-left: 170px;
+    gap: 50px;
+    width: 47%;
+}
+
+.chose-file {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-right: 100px;
+    gap: 10px;
+}
+
+.button {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 5px;
+    text-align: center;
+    width: 100%;
+    padding-bottom: 15px;
+}
